@@ -8,5 +8,6 @@ for i in car:
 	print(i)
 
 # feature two 
-for i in range(10):
-	print(i)
+num = [22 ,10 , 30]
+for a in num:
+	print(a)
